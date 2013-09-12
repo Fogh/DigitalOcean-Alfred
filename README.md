@@ -13,21 +13,7 @@ Control your [DigitalOcean](https://www.digitalocean.com/?refcode=ec5a20742437) 
 
 Stil a lot of features are missing, but I will develop them as soon as I get the time. 
 
-### To-do features for droplets
-
-- [x] List droplets
-- [ ] New droplet
-- [ ] Reboot & shutdown droplet
-- [ ] Power cycle
-- [ ] Power on & power off droplet
-- [ ] Password reset
-- [ ] Resize droplet
-- [ ] Snapshot
-- [ ] Restore droplet
-- [ ] Rebuild droplet
-- [ ] Enable & disable backups
-- [ ] Rename droplet
-- [ ] Destroy droplet
+See [issue #1](https://github.com/Fogh/DigitalOcean-Alfred/issues/1) for a to-do list of coming features.
 
 ## Setup
 
