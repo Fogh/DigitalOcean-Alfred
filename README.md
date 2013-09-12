@@ -9,6 +9,10 @@ Control your [DigitalOcean](https://www.digitalocean.com/?refcode=ec5a20742437) 
 
 [Download workflow](https://github.com/Fogh/DigitalOcean-Alfred/raw/master/DigitalOcean.alfredworkflow)
 
+## Info
+
+Stil a lot of features are missing, but I will develop them as soon as I get the time. 
+
 ## Setup
 
 * Use the keyword `digi api` to set your API key.
