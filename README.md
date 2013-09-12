@@ -16,18 +16,18 @@ Stil a lot of features are missing, but I will develop them as soon as I get the
 ### To-do features for droplets
 
 - [x] List droplets
-- [] New droplet
-- [] Reboot & shutdown droplet
-- [] Power cycle
-- [] Power on & power off droplet
-- [] Password reset
-- [] Resize droplet
-- [] Snapshot
-- [] Restore droplet
-- [] Rebuild droplet
-- [] Enable & disable backups
-- [] Rename droplet
-- [] Destroy droplet
+- [ ] New droplet
+- [ ] Reboot & shutdown droplet
+- [ ] Power cycle
+- [ ] Power on & power off droplet
+- [ ] Password reset
+- [ ] Resize droplet
+- [ ] Snapshot
+- [ ] Restore droplet
+- [ ] Rebuild droplet
+- [ ] Enable & disable backups
+- [ ] Rename droplet
+- [ ] Destroy droplet
 
 ## Setup
 
