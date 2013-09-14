@@ -96,7 +96,7 @@ set_APIKey("{query}")</string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>digi api</string>
+				<string>do api</string>
 				<key>subtext</key>
 				<string>Set your DigitalOcean API key</string>
 				<key>text</key>
@@ -160,7 +160,7 @@ set_clientID("{query}")</string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>digi client</string>
+				<string>do client</string>
 				<key>subtext</key>
 				<string>Set your DigitalOcean Client ID</string>
 				<key>text</key>
@@ -200,7 +200,7 @@ set_clientID("{query}")</string>
 				<key>escaping</key>
 				<integer>4</integer>
 				<key>keyword</key>
-				<string>digi droplets</string>
+				<string>do droplets</string>
 				<key>runningsubtext</key>
 				<string>Loading...</string>
 				<key>script</key>
