@@ -17,8 +17,8 @@ See [issue #1](https://github.com/Fogh/DigitalOcean-Alfred/issues/1) for a to-do
 
 ## Setup
 
-* Use the keyword `digi api` to set your API key.
-* Use the keyword `digi client` to set your client ID.
+* Use the keyword `do api` to set your API key.
+* Use the keyword `do client` to set your client ID.
 
 ## Contribute
 
